@@ -1,11 +1,11 @@
 #Dyncast (Dynamic Anycast) Virtual Side meeting in IETF 109
 
 ## Time: Wed (March 10) , 90min
-   - UTC 10:00 - 11:30
-   - CET (UTC+1) 11:00 - 12:30 - France/Germany/Prague
-   - CST (UTC+8) 18:00 - 19:30 – Beijing/Singapore
-   - EST (UTC-5) 05:00-06:30
-   - PST (UTC-8) 02:00-03:30
+   - UTC 10:00 - 12:00
+   - CET (UTC+1) 11:00 - 13:00 - France/Germany/Prague
+   - CST (UTC+8) 18:00 - 20:00 – Beijing/Singapore
+   - EST (UTC-5) 05:00-07:00
+   - PST (UTC-8) 02:00-04:00
 
 Information also available on side meeting wiki: https://trac.ietf.org/trac/ietf/meeting/wiki/110sidemeetings
 
