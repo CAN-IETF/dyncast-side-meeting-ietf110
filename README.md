@@ -9,6 +9,8 @@
 
 Information also available on side meeting wiki: https://trac.ietf.org/trac/ietf/meeting/wiki/110sidemeetings
 
+## Materials will be available by March 6th. 
+
 ## Webex
 - Webex Meeting number (access code): 181 922 3870
 - Password: KNp7kdNSm62
