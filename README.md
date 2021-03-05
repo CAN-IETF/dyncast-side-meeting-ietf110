@@ -44,7 +44,7 @@ https://etherpad.wikimedia.org/p/dyncast-ietf110
    - Service affinity  (27’)
       - Basic approach, aspects to consider – Dirk Trossen (7’)
       - Time period based affinity – Carsten Bormann(7’)
-         - https://tools.ietf.org/html/draft-bormann-dyncast-affinity-00
+         - https://www.ietf.org/archive/id/draft-bormann-dyncast-affinity-00.html
      - Discussions, e.g. pros and cons, direction to go, allow multiple solutions for different use case? (13’)
    - Metrics discussion (10’)
 6.	Wrap up and next steps (chairs) [20 : 110/120]
