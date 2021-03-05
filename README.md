@@ -24,7 +24,8 @@ https://etherpad.wikimedia.org/p/dyncast-ietf110
 - https://tools.ietf.org/html/draft-liu-dyncast-ps-usecases-01
 - https://tools.ietf.org/html/draft-liu-dyncast-reqs-00
 - https://tools.ietf.org/html/draft-li-dyncast-architecture-00
-- https://tools.ietf.org/html/draft-bormann-dyncast-affinity-00
+- https://www.ietf.org/archive/id/draft-bormann-dyncast-affinity-00.html
+
 
 ## Purpose of the virtual side meeting:
 - Give an update on the use cases, problem space, requirements and architecture since last meeting
