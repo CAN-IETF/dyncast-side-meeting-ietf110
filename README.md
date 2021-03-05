@@ -1,4 +1,4 @@
-#Dyncast (Dynamic Anycast) Virtual Side meeting in IETF 109
+# Dyncast (Dynamic Anycast) Virtual Side meeting in IETF 109
 
 ## Time: Wed (March 10) , 120min
    - UTC 10:00 - 12:00
@@ -28,6 +28,23 @@ https://etherpad.wikimedia.org/p/dyncast-ietf110
 - Give an update on the use cases, problem space, requirements and architecture since last meeting
 - Technical discussions on instance affinity and metrics
 - Collect feedback on the direction and interest to move the work in IETF routing area 
+
+## Agenda
+1.	Admin [8: 8/120] 
+2.	Problem statement, use cases and requirements (updates): Peng Liu (China Mobile) [15: 23/120] 
+   - https://tools.ietf.org/html/draft-liu-dyncast-ps-usecases-01
+   - https://tools.ietf.org/html/draft-liu-dyncast-reqs-00
+3.	Dyncast architecture (updates): Luigi Iannone [10 : 33/120]
+   - https://tools.ietf.org/html/draft-li-dyncast-architecture-00
+4.	Questions and Recap of the feedback received[20: 53/120]
+5.	Specific technical topics – Moderator: Dirk Trossen (37: 90/120)
+   - Service affinity  (27’)
+      - Basic approach, aspects to consider – Dirk Trossen (7’)
+      - Time period based affinity – Carsten Bormann(7’)
+         - https://tools.ietf.org/html/draft-bormann-dyncast-affinity-00
+     - Discussions, e.g. pros and cons, direction to go, allow multiple solutions for different use case? (13’)
+   - Metrics discussion (10’)
+6.	Wrap up and next steps (chairs) [20 : 110/120]
 
 
 ## Introduction
