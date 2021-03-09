@@ -58,7 +58,7 @@ Most current practices uses random or round robin way or use geographically clos
 
 Dyncast (dynamic ancyast) tries to route the computing service demands based on computing and network metrics jointly at the network layer to improve the efficiency and latency. Three features are to be supported:
 * Anycast based service addressing methodology 
-* Flow affinity
+* Instance affinity
 * Computing Aware Routing
 
 Dyncast tries to focus on:
