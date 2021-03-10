@@ -18,6 +18,9 @@ Information also available on side meeting wiki: https://trac.ietf.org/trac/ietf
 ## Codimd for minute takers and attendance marking
 https://codimd.ietf.org/notes-ietf-110-dyncast-side-meeting
 
+## Link to slides
+https://github.com/dyncast/ietf110/blob/main/dyncast-ietf110-side-meeting-full-deck.pdf
+
 ## Drafts:
 - https://tools.ietf.org/html/draft-liu-dyncast-ps-usecases-01
 - https://tools.ietf.org/html/draft-liu-dyncast-reqs-00
