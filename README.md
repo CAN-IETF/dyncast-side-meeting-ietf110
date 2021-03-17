@@ -60,7 +60,7 @@ Then the problem comes as how to optimally route service demands based on comput
 Most current practices uses random or round robin way or use geographically closest one to decide the edge to handle the service demand. It considers the static characteristics like aliveness and geographical distance of edges. Dynamic status like computing load and network path status are not taken into account. In addition, the practices usually determine the best edge in respect to the computing and networking aspects separately rather than jointly.  
 
 Dyncast (dynamic ancyast) tries to route the computing service demands based on computing and network metrics jointly at the network layer to improve the efficiency and latency. Three features are to be supported:
-* Anycast based service addressing methodology 
+* Anycast based service semantic addressing 
 * Instance affinity
 * Computing Aware Routing
 
